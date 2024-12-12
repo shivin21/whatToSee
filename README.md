@@ -1,4 +1,4 @@
-# Notes Pro - Your Digital Notebook
+# What To See - Your Digital Notebook
 
 Welcome to the Notes Pro repository! This Android app allows users to create, manage, and organize their notes using Firebase as the backend. Below, we provide an overview of key files, functionalities, and usage instructions:
 
